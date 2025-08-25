@@ -6,7 +6,7 @@ A modern twist on the classic Pong game built with Python and Pygame, featuring 
 
 ### Prerequisites
 
-Before you begin, ensure you have Python installed on your system.
+Before you begin, ensure you have Python installed on your system, and have already downloaded the code (green button) as a ZIP and extacted on your root folder.
 
 ### 📥 Installing Python
 
